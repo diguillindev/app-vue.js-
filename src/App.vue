@@ -8,7 +8,7 @@ import { RouterLink, RouterView } from 'vue-router'
     <div class="container-fluid">
       <a class="navbar-brand">Navbar</a>
       <!-- Enlaces con estilo personalizado -->
-      <RouterLink to="/CalculoCalificaciones" class="nav-link">Promedio</RouterLink>
+      <RouterLink to="/" class="nav-link">Promedio</RouterLink>
       <RouterLink to="/FormularioRegistro" class="nav-link">Formulario</RouterLink>
     </div>
   </nav>
